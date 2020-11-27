@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"githubPullRequests.remotes": [
+			"https://github.com/karinacarva/chatbootmandafood"
+		]
+	}
+}
